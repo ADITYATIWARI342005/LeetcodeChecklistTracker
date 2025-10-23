@@ -9,7 +9,6 @@ public:
             }
             s = newS;  
         }
-        return s[0]==s[1];
-
+        return (s[0]==s[1])? true:false;
     }
 };
