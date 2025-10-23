@@ -26,13 +26,27 @@ A repository to track my coding behaviour, frequency and habits
 | ------- |
 | [0038-count-and-say](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/0038-count-and-say) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Math
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
