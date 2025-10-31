@@ -10,6 +10,7 @@ A repository to track my coding behaviour, frequency and habits
 | [2169-simple-bank-system](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A repository to track my coding behaviour, frequency and habits
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -58,6 +60,7 @@ A repository to track my coding behaviour, frequency and habits
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2169-simple-bank-system) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Design
 |  |
 | ------- |
