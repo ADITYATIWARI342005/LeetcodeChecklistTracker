@@ -10,6 +10,7 @@ A repository to track my coding behaviour, frequency and habits
 | [2169-simple-bank-system](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A repository to track my coding behaviour, frequency and habits
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2169-simple-bank-system) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Design
 |  |
@@ -69,4 +71,8 @@ A repository to track my coding behaviour, frequency and habits
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
