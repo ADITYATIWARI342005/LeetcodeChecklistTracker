@@ -1,49 +1,48 @@
 class Solution {
 public:
     vector<int> findXSum(vector<int>& nums, int k, int x) {
-        // vector<pair<int,int>>v(50);
-        vector<int>res;
-        unordered_map<int,int>mpp;
-        for(int i=0;i<k;i++){
-            mpp[nums[i]]++;
+        int n = nums.size();
+        vector<int> freq(51, 0 );
+        vector<int> ans( n-k+1, 0 );
+        //different treatment for first subarray
+        for( int i = 0;i<k;i++)
+            freq[nums[i]]++;
+        priority_queue<pair<int,int>> pq;
+        for(int i = 0;i<=50;i++)
+        {
+            if( freq[i] > 0 )
+                pq.push( pair<int,int>(freq[i], i ) );
         }
-        auto cmp = [](pair<int, int>& a, pair<int, int>& b) {
-            if (a.second != b.second) {
-                return a.second < b.second; 
-            }
-            return a.first < b.first; 
-        };
-        priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)> pq(cmp);
-        for(auto a:mpp){
-            pq.push({a.first,a.second});
-        }
-        int temp=0;
-        for(int j=0;j<x && pq.size()>0;j++){
-            cout<<pq.top().first<<" "<<pq.top().second<<endl;
-            temp+=pq.top().first*pq.top().second;
+        pair<int,int> tmp;
+        int sm = 0;
+        for( int i = 0 ;i<x && pq.size();i++)
+        {
+            tmp = pq.top();
             pq.pop();
+            sm += tmp.first*tmp.second;
         }
-        res.push_back(temp);
-        for(int i=k;i<nums.size();i++){
-            mpp[nums[i-k]]--;
-            mpp[nums[i]]++;
-            auto cmp = [](pair<int, int>& a, pair<int, int>& b) {
-                if (a.second != b.second) {
-                    return a.second < b.second; 
-                }
-                return a.first < b.first; 
-            };
-            priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)> p(cmp);
-            for(auto a:mpp){
-                p.push({a.first,a.second});
+        ans[0] = sm;
+        //second subarray onwards
+        for( int i = 1; i<n-k+1;i++)
+        {
+            freq[nums[i-1]]--;
+            freq[nums[k+i-1]]++;
+            priority_queue<pair<int,int>> pqn;
+            for(int i = 0;i<=50;i++)
+            {
+                if( freq[i] > 0 )
+                    pqn.push( pair<int,int>(freq[i], i ) );
             }
-            int t=0;
-            for(int j=0;j<x && p.size()>0;j++){
-                t+=p.top().first*p.top().second;
-                p.pop();
+            pair<int,int> tmp;
+            int sm = 0;
+            for( int i = 0 ;i<x && pqn.size();i++)
+            {
+                tmp = pqn.top();
+                pqn.pop();
+                sm += tmp.first*tmp.second;
             }
-            res.push_back(t);    
+            ans[i] = sm;           
         }
-        return res;
+        return ans;
     }
 };
