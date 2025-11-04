@@ -12,6 +12,7 @@ A repository to track my coding behaviour, frequency and habits
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A repository to track my coding behaviour, frequency and habits
 | [2169-simple-bank-system](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A repository to track my coding behaviour, frequency and habits
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
