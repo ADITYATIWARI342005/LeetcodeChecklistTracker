@@ -38,6 +38,7 @@ A repository to track my coding behaviour, frequency and habits
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2288-count-operations-to-obtain-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
@@ -48,6 +49,7 @@ A repository to track my coding behaviour, frequency and habits
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
