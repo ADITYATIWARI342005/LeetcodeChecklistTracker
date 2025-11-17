@@ -6,6 +6,7 @@ A repository to track my coding behaviour, frequency and habits
 ## Array
 |  |
 | ------- |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
