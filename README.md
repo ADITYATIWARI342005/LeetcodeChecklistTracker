@@ -32,6 +32,7 @@ A repository to track my coding behaviour, frequency and habits
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/0038-count-and-say) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -46,6 +47,7 @@ A repository to track my coding behaviour, frequency and habits
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
@@ -65,6 +67,7 @@ A repository to track my coding behaviour, frequency and habits
 ## Hash Table
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -89,4 +92,8 @@ A repository to track my coding behaviour, frequency and habits
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
