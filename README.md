@@ -12,6 +12,7 @@ A repository to track my coding behaviour, frequency and habits
 | [2169-simple-bank-system](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -54,6 +55,7 @@ A repository to track my coding behaviour, frequency and habits
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/2288-count-operations-to-obtain-zero) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITYATIWARI342005/LeetcodeChecklistTracker/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
